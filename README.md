@@ -16,13 +16,12 @@ compare image with previous one (by magicwand library) and create new image that
 
 ## __MODULE REQUIREMENT
 ### _Raspberry pi or AVR or ARM cortex-m
-prototype with raspberry pi and make price lower by using AVR or ARM cortex-m
+prototype with raspberry pi and make price lower by using AVR or ARM cortex-m further.
 
 ### _Mount Webcam
-module mount webcam and caught picture or video
+module mount webcam to catch picture or video
 
 ### _Mode Select
+by switch on module(3 level switch)
 1. video
 2. picture
-
-
